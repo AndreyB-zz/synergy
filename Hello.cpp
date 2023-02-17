@@ -2,8 +2,8 @@
 //  Hello.cpp
 //  Console Application
 //
-//  Created by Andrey Babichev on 17.02.2023.
-//
+//  Created by Andrey Babichev.
+//  https://github.com/AndreyB-zz/synergy
 
 #include <stdio.h>
 
